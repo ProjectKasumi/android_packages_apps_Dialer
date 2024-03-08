@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2013-2014 The CyanogenMod Project
+<!-- Copyright (C) 2007 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -15,9 +14,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <plurals name="play_recordings">
-        <item quantity="one">ჩანაწერის მოსმენა</item>
-        <item quantity="other">ჩანაწერების მოსმენა</item>
-    </plurals>
-    <string name="call_playback_no_app_found_toast">პროგრამა ვერ მოიძებნა შერჩეული ჩანაწერის გასაშვებად.</string>
+  <string name="vvm_unsupported_message_format">Gjenar di messaç no supuartât, clame <xliff:g example="*86" id="number">%s</xliff:g> par scoltâlu.</string>
 </resources>
